@@ -1,2 +1,2 @@
 # MERN-PROJECT
-# RESTAURANT-APPLICATION
+# Restaurant Application with React , Node , MongoDB , Express.
